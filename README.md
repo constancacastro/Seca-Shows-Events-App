@@ -6,4 +6,4 @@ Mandatory project within groups of 3;
 - For curricular course IPW (also known as, in English, Introduction to Web Development).
 
 # ATTENTION!
-- The project is in the zip above; it is extensive to work with only files here on GitHub; It is only necessary to download/unzip to get to the project
+- The project is in the zip ('seca-app.zip') above; it is extensive to work with only files here on GitHub; It is only necessary to download/unzip to get to the project
